@@ -1,7 +1,9 @@
 SOLVEN.eu
 
-benoit.lacelle@solven.eu
+benoit@solven.eu
 
-https://www.cormoran.io
+https://kumite-dev-d2844865d26b.herokuapp.com/ - https://github.com/solven-eu/kumite/
 
-https://www.lelotusdeceline.yoga/
+~https://www.cormoran.io~
+
+~https://www.lelotusdeceline.yoga/~
