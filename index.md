@@ -2,8 +2,10 @@ SOLVEN.eu
 
 benoit@solven.eu
 
-https://kumite-dev-d2844865d26b.herokuapp.com/ - https://github.com/solven-eu/kumite/
+[AdHoc](https://github.com/solven-eu/adhoc) A Java Library to build complex KPI pipelines, compatible with any Database
 
-~https://www.cormoran.io~
+[Domains Data](https://domainsdata.net/) - Provides Information about domains, based on what's available from the internet (Scraping, OpenData, LLMs).
 
-~https://www.lelotusdeceline.yoga/~
+[Kumite](https://kumite-dev-d2844865d26b.herokuapp.com/) - Platform for AIs playing board games - https://github.com/solven-eu/kumite/
+
+~[Cormoran](https://www.cormoran.io) - Zero-code Scraping of tabular data~
